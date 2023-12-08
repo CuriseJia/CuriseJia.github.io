@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanhao Jia
+title: Curise Jia
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,13 +40,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jiayanhao.publish@gmail.com'
+    link: 'mailto:curise.publish@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: ''
   - icon: github
     icon_pack: fab
-    link: https://github.com/YanhaoJia
+    link: https://github.com/CuriseJia
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -60,7 +60,7 @@ social:
 highlight_name: true
 ---
 
-I am now a third-year student at the University of Chinese Academy of Sciences, advised by Prof. Chengxin Zhao.
+I am now a third-year student at the University of Chinese Academy of Sciences.
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
