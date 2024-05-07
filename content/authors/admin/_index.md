@@ -19,7 +19,7 @@ bio: My research interests include distributed CV, Retrieval and AI4Sci.
 # Interests to show in About widget
 interests:
   - Multi-Modal Retrieval
-  - AI4Science(Physics, Material, Education)
+  - AI4Science(Physics, Remote Sensing, Education)
   - AIGC with Diffusion Model
   - Object Detection & Segmentation
 
@@ -60,7 +60,7 @@ social:
 highlight_name: true
 ---
 
-I am now a third-year student at the University of Chinese Academy of Sciences.
+I am now a third-year student at the University of Chinese Academy of Sciences, supervised by Prof. [Chengxin Zhao](https://people.ucas.edu.cn/~czh) and will become a PhD student at the Nanyang Technological University, SCSE, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en)
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
