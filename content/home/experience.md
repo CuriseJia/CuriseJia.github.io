@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Engineer
+    company: Centre for Frontier AI Research, A*STAR
+    company_url: 'https://www.a-star.edu.sg/CFAR'
+    company_logo: astar
+    location: Singapore
+    date_start: '2024-06-15'
+    date_end: ''
+    description: Advised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en)
   - title: Research Intern
     company: School of Electronic and Computer Engineering, Peking University
     company_url: 'https://www.ece.pku.edu.cn'
