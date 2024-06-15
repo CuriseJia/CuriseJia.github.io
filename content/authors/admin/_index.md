@@ -62,7 +62,7 @@ social:
 highlight_name: true
 ---
 
-I am now an incoming PhD student at the Nanyang Technological University, SCSE, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en)
+I am now an incoming PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en)
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
@@ -73,5 +73,7 @@ My research interests include Multi-Modal Retrieval, AI4Science Tasks, and AIGC 
 
 **News**:
 - Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.
-- 03/2024: 2 papers is accepted by NST.
+- 06/2024: 1 paper is accepted by Nuclear Instruments and Methods in Physics Research, A.
+- 04/2024: 1 paper is accepted by Sensors.
+- 03/2024: 2 papers are accepted by Nuclear Science and Techniques.
 <!-- - **Reviewer Service**: ARR, ACL, ACM MM -->
