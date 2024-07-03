@@ -6,7 +6,7 @@ title: Yanhao Jia
 superuser: true
 
 # Role/position/tagline
-role: Incoming PhD student@NTU
+role: PhD student@NTU
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ bio: My research interests include distributed CV, Retrieval and AI4Sci.
 
 # Interests to show in About widget
 interests:
-  - AI4Science(NeuronScience, Physics, Remote Sensing, Education)
+  - AI4Science(NeuronScience, Physics, Education and Remote Sensing.)
   - Multi-Modal Retrieval
   - AIGC with Diffusion Model
 
@@ -62,7 +62,7 @@ social:
 highlight_name: true
 ---
 
-I am now an incoming PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en)
+I am now a first-year PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
@@ -73,7 +73,9 @@ My research interests include Multi-Modal Retrieval, AI4Science Tasks, and AIGC 
 
 **News**:
 - Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.
-- 06/2024: 1 paper is accepted by Nuclear Instruments and Methods in Physics Research, A.
-- 04/2024: 1 paper is accepted by Sensors.
-- 03/2024: 2 papers are accepted by Nuclear Science and Techniques.
-<!-- - **Reviewer Service**: ARR, ACL, ACM MM -->
+- Keep collobration with Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) and Dr. [Peng Jin](https://jpthu17.github.io/) on Multi-Modal Tasks and Dr. [Xinyi](https://riesummer.github.io/) Wu on AI4Education.
+- 07/2024: 1 paper is accepted by ECCV2024!
+- 06/2024: 1 paper is accepted by Nuclear Instruments and Methods in Physics Research, A!
+- 04/2024: 1 paper is accepted by Sensors!
+- 03/2024: 2 papers are accepted by Nuclear Science and Techniques!
+- **Reviewer Service**: ACM MM
