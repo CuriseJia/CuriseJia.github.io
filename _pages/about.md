@@ -21,7 +21,7 @@ I am now a PhD student at the Nanyang Technological University, CCDS, supervised
 
 I have been a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) in 2023-2025. Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
 
-🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
 
 
 🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
@@ -33,7 +33,7 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science and Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25, AAAI26
+- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25, AAAI26, ARR
 
 # 📝 Preprint
 - [Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050), **Yanhao Jia**, Xinyi Wu, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
@@ -54,9 +54,9 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 
 - ``ACL 2025`` [Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](https://arxiv.org/abs/2502.05863), **Yanhao Jia<sup>*</sup>**, Xinyi Wu<sup>*</sup>, Hao Li, Qinglin Zhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan.
 
-- ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
-
 - ``Nuclear Science and Techniques`` [OML: An online multi-particle locating method for high-resolution single event effects studies](https://link.springer.com/article/10.1007/s41365-024-01539-6), **Yanhao Jia**, Jianwei Liao, Haibo Yang, Qihao Duan, Longjie Wang, Jiangyong Du, Honglin Zhang, Chengxin Zhao.
+
+- ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
 - ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
 
@@ -80,7 +80,10 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
-- *2023.05 - (now)*, Research Intern, Peking University
 - *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR
+- *2023.05 - 2025.09*, Research Intern, Peking University
 - *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab
 - *2021.08 - 2021.09*, AI Teaching Assistant, State Gird Fujian Electric Power Company
+
+# Welcome
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk&cl=ffffff&w=a"></script>
