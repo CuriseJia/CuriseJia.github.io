@@ -19,12 +19,12 @@ redirect_from:
 
 I am now a PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
 
-I have been a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) in 2023-2024. Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
+I have been a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) in 2023-2024. Before joining PKU, I was an AI4Edu Algorithm Researcher and led the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab from 2021 to 2023.
 
-🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collobration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collaboration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks, and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specifically, I aim to develop models with human reasoning capabilities and liberate human productivity.
 
 
-🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
+🤝 **Looking for collaboration. If you are interested in working with me on AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
 - *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing!
@@ -34,7 +34,7 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25, AAAI26, ARR, IEEE TAC
+- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25, AAAI26, ARR, IEEE TAFFC, IEEE TCSS, PR
 
 # 📝 Preprint
 - [Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050), Xinyi Wu, **Yanhao Jia**, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
@@ -84,7 +84,7 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR
 - *2023.04 - 2024.06*, Research Intern, Peking University
 - *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab
-- *2021.08 - 2021.09*, AI Teaching Assistant, State Gird Fujian Electric Power Company
+- *2021.08 - 2021.09*, AI Teaching Assistant, State Grid Fujian Electric Power Company
 
 # Welcome
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk'></script>
