@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
-
-I have been a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm) in 2023-2024. Before joining PKU, I was an AI4Edu Algorithm Researcher and led the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab from 2021 to 2023.
+I am now a PhD student at the Nanyang Technological University, CCDS.
 
 🤔 My research interests include Neuron-Inspired Multi-Modal AI methods and their downstream applications on cross fields. I keep collaboration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks, and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specifically, I aim to develop models with human reasoning capabilities and liberate human productivity.
 
@@ -34,7 +32,7 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25, ICCV25, NIPS25, AAAI26, ARR, IEEE TAFFC, IEEE TCSS, PR
+- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25&26, ICCV25, NIPS25, AAAI26, ARR, IEEE TAFFC, IEEE TCSS, PR
 
 # 📝 Preprint
 - [Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050), Xinyi Wu, **Yanhao Jia**, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
@@ -74,6 +72,7 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 
 # 👨‍💻 Open-Source Projects
 - [OpenXLab-Edu](https://xedu.readthedocs.io/)
+- [MMSegmentation](https://mmsegmentation.readthedocs.io/en/latest/index.html)
 
 # 📖 Educations
 - *2024.07 - (now)*, Ph.D. in Computer Science, Nanyang Technological University
@@ -81,9 +80,9 @@ I have been a research intern at Peking University, advised by Prof. [Li Yuan](h
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
-- *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR
-- *2023.04 - 2024.06*, Research Intern, Peking University
-- *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab
+- *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR (Supervisor: Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en))
+- *2023.04 - 2024.06*, Research Intern, Peking University (Supervisor: Prof. [Li Yuan](https://scholar.google.com/citations?user=-5juAR0AAAAJ&hl=en))
+- *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab (Mentor: Dr. [Ruohui Wang](https://scholar.google.com/citations?user=G-9-nIYAAAAJ&hl=en) and Ms. [Juan Dai](https://www.linkedin.com/in/lynn-dai-59a5aa13/))
 - *2021.08 - 2021.09*, AI Teaching Assistant, State Grid Fujian Electric Power Company
 
 # Welcome
