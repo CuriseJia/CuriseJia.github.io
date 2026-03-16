@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student at the Nanyang Technological University, CCDS.
+Hi! I am now a PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ&hl=en).
 
 🤔 My research interests include multimodal spatial intelligence methods and their downstream applications on cross-fields. I keep collaboration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks, and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specifically, I aim to develop models that emulate human reasoning and enhance human productivity.
 
@@ -25,6 +25,8 @@ I am now a PhD student at the Nanyang Technological University, CCDS.
 🤝 **Looking for collaboration. If you are interested in working with me on AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
+- *03/2026*: &nbsp;🎉🎉 Three papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing!
+- *02/2026*: &nbsp;🎉🎉 Two papers are accepted by ICLR2026 & IEEE Transactions on Affective Computing!
 - *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing!
 - *05/2025*: &nbsp;🎉🎉 One paper is accepted by NIPS2025(Spotlight)!
 - *05/2025*: &nbsp;🎉🎉 Two papers are accepted by ACL2025(1 main & 1 findings)!
@@ -50,6 +52,8 @@ I am now a PhD student at the Nanyang Technological University, CCDS.
 
 - ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
+- ``IEEE Trans on Affective Computing`` [Towards Affective Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://www.computer.org/csdl/journal/ta/5555/01/11361133/2dum8ZaUMBa), Xinyi Wu, Yanhao Jia, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
+
 - ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
 
 # 👨‍💻 Open-Source Projects
@@ -58,8 +62,8 @@ I am now a PhD student at the Nanyang Technological University, CCDS.
 
 # 📖 Educations
 - *2024.07 - (now)*, Ph.D. in Computer Science, Nanyang Technological University
-- *2021.09 - 2024.06*, M.S. in Computer Science, University of Chinese Academy of Sciences
-- *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
+- *2021.09 - 2024.06*, M.S. in Computer Science, University of Chinese Academy of Sciences (Supervisor: Prof. [Chengxin Zhao](https://people.ucas.edu.cn/~0057379))
+- *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University (Supervisor: Prof. [Chengxin Zhao](https://people.ucas.edu.cn/~0057379))
 
 # 💻 Internships
 - *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR (Supervisor: Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en))
