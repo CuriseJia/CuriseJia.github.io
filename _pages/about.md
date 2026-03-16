@@ -63,7 +63,7 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 # 📖 Educations
 - *2024.07 - (now)*, Ph.D. in Computer Science, Nanyang Technological University
 - *2021.09 - 2024.06*, M.S. in Computer Science, University of Chinese Academy of Sciences (Supervisor: Prof. [Chengxin Zhao](https://people.ucas.edu.cn/~0057379))
-- *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University (Supervisor: Prof. [Chengxin Zhao](https://people.ucas.edu.cn/~0057379))
+- *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
 - *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR (Supervisor: Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en))
