@@ -25,7 +25,8 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 🤝 **Looking for collaboration. If you are interested in working with me on AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
-- *03/2026*: &nbsp;🎉🎉 Three papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing!
+- *04/2025*: &nbsp;🎉🎉 I co-organized the [F2S Workshop](https://icml2026-f2s-workshop.github.io/) at ICML2026!
+- *03/2026*: &nbsp;🎉🎉 Two papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing!
 - *02/2026*: &nbsp;🎉🎉 Two papers are accepted by ICLR2026 & IEEE Transactions on Affective Computing!
 - *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing!
 - *05/2025*: &nbsp;🎉🎉 One paper is accepted by NIPS2025(Spotlight)!
@@ -34,7 +35,8 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- **Reviewer Service**: ACM MM24&25, ECCV24, KDD25&26, ICCV25, NIPS25, AAAI26, ARR, IEEE TAFFC, IEEE TCSS, IEEE TIFS, PR
+- **Conference Reviewer**: ACM MM24-26, ECCV24&26, KDD25&26, ICCV25, NIPS25&26, AAAI26, ARR.
+- **Journal Reviewer**: IEEE TAFFC, IEEE TCSS, IEEE TIFS, PR, Neural Network, Neural Computing.
 
 # 📝 Preprint
 
@@ -52,7 +54,7 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 
 - ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03384.pdf), Hao Li<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
-- ``IEEE Trans on Affective Computing`` [Towards Affective Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://www.computer.org/csdl/journal/ta/5555/01/11361133/2dum8ZaUMBa), Xinyi Wu, Yanhao Jia, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
+- ``IEEE Trans on Affective Computing`` [Towards Affective Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://www.computer.org/csdl/journal/ta/5555/01/11361133/2dum8ZaUMBa), Xinyi Wu, **Yanhao Jia**, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
 
 - ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
 
