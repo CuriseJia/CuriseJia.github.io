@@ -25,7 +25,6 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 🤝 **Looking for collaboration. If you are interested in working with me on AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
-- *04/2025*: &nbsp;🎉🎉 I co-organized the [F2S Workshop](https://icml2026-f2s-workshop.github.io/) at ICML2026!
 - *03/2026*: &nbsp;🎉🎉 Two papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing!
 - *02/2026*: &nbsp;🎉🎉 Two papers are accepted by ICLR2026 & IEEE Transactions on Affective Computing!
 - *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing!
@@ -35,16 +34,18 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 - *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation!
 - *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
 - *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
-- **Conference Reviewer**: ACM MM24-26, ECCV24&26, KDD25&26, ICCV25, NIPS25&26, AAAI26, ARR.
-- **Journal Reviewer**: IEEE TAFFC, IEEE TCSS, IEEE TIFS, PR, Neural Network, Neural Computing.
+- **Conference Reviewer**: ACM MM24-26, ECCV24&26, KDD25&26, ICCV25, NIPS25&26, ICML26, AAAI26, ARR, BMVC26.
+- **Journal Reviewer**: IEEE TAFFC, IEEE TCSS, IEEE TIFS, PR, Neural Network, Neural Computing, IPM.
 
 # 📝 Preprint
+
+- [Towards Spatial Reasoning and Understanding via Modeling Modality Conflict, Bias and Alignment](https://www.researchgate.net/publication/405186137_Towards_Spatial_Reasoning_and_Understanding_via_Modeling_Modality_Conflict_Bias_and_Alignment), **Yanhao Jia**, Xinyi Wu, Jayant Teotia, Junhao Dong, Shuai Zhao, Piotr Koniusz, Erik Cambria
 
 - [From query to explanation: Uni-rag for multi-modal retrieval-augmented learning in stem](https://arxiv.org/abs/2507.03868), Xinyi Wu, **Yanhao Jia**, Luwei Xiao, Shuai Zhao, Fengkuang Chiang, Erik Cambria
 
 - [Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](https://arxiv.org/abs/2506.11521), Jinming Wen, Xinyi Wu, Shuai Zhao, **Yanhao Jia**, Yuwen Li.
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
+# 📝 Publications (Part) <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
 
 - ``NIPS 2025(Spotlight)``  [Seeing sound, hearing sight: Uncovering modality bias and conflict of ai models in sound localization](https://arxiv.org/abs/2505.11217), **Yanhao Jia**, Ji Xie, S Jivaganesh, Hao Li, Xu Wu, Mengmi Zhang.
 
