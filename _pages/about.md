@@ -39,13 +39,17 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 
 # 📝 Preprint
 
-- [Towards Spatial Reasoning and Understanding via Modeling Modality Conflict, Bias and Alignment](https://www.researchgate.net/publication/405186137_Towards_Spatial_Reasoning_and_Understanding_via_Modeling_Modality_Conflict_Bias_and_Alignment), **Yanhao Jia**, Xinyi Wu, Jayant Teotia, Junhao Dong, Shuai Zhao, Piotr Koniusz, Erik Cambria
+- [Towards Spatial Reasoning and Understanding via Modeling Modality Conflict, Bias and Alignment](https://www.researchgate.net/publication/405186137_Towards_Spatial_Reasoning_and_Understanding_via_Modeling_Modality_Conflict_Bias_and_Alignment), **Yanhao Jia**, Xinyi Wu, Jayant Teotia, Junhao Dong, Shuai Zhao, Piotr Koniusz, Erik Cambria.
 
-- [From query to explanation: Uni-rag for multi-modal retrieval-augmented learning in stem](https://arxiv.org/abs/2507.03868), Xinyi Wu, **Yanhao Jia**, Luwei Xiao, Shuai Zhao, Fengkuang Chiang, Erik Cambria
+- [Bridging World Models and Physical Simulation for Real-World 3D Scene Assets Generation](), **Yanhao Jia**, Qinglin Yang, Hao Li, Wangbo Yu, Junhao Dong, Shuai Zhao.
+  
+- [ChronoPhyBench: Do MLLMs Truly Understand the World or Merely Exploit Language Priors?](https://www.researchgate.net/publication/405508425_ChronoPhyBench_Do_MLLMs_Truly_Understand_the_World_or_Merely_Exploit_Language_Priors), Bin Zhu<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Kexin Zhao<sup>*</sup>,et al.
+
+- [From query to explanation: Uni-rag for multi-modal retrieval-augmented learning in stem](https://arxiv.org/abs/2507.03868), Xinyi Wu, **Yanhao Jia**, Luwei Xiao, Shuai Zhao, Feng-Kuang Chiang, Erik Cambria.
 
 - [Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](https://arxiv.org/abs/2506.11521), Jinming Wen, Xinyi Wu, Shuai Zhao, **Yanhao Jia**, Yuwen Li.
 
-# 📝 Publications (Part) <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
+# 📝 Publications (Part, Full list in [Google Scholar](https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en))
 
 - ``NIPS 2025(Spotlight)``  [Seeing sound, hearing sight: Uncovering modality bias and conflict of ai models in sound localization](https://arxiv.org/abs/2505.11217), **Yanhao Jia**, Ji Xie, S Jivaganesh, Hao Li, Xu Wu, Mengmi Zhang.
 
