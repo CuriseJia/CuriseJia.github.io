@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am now a PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ&hl=en).
+Hi! I am now a PhD candidate at the Nanyang Technological University, CCDS, supervised by Prof. [Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ&hl=en).
 
 🤔 My research interests include multimodal spatial intelligence methods and their downstream applications on cross-fields. I keep collaboration with my friends Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks, and Dr. [Xinyi Wu](https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en) on AI4Education. Specifically, I aim to develop models that emulate human reasoning and enhance human productivity.
 
@@ -25,25 +25,28 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 🤝 **Looking for collaboration. If you are interested in working with me on AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
-- *03/2026*: &nbsp;🎉🎉 Two papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing!
-- *02/2026*: &nbsp;🎉🎉 Two papers are accepted by ICLR2026 & IEEE Transactions on Affective Computing!
-- *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing!
-- *05/2025*: &nbsp;🎉🎉 One paper is accepted by NIPS2025(Spotlight)!
-- *05/2025*: &nbsp;🎉🎉 Two papers are accepted by ACL2025(1 main & 1 findings)!
-- *04/2025*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing!
-- *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation!
-- *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024!
-- *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024!
+- *07/2026*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Information Forensics and Security.
+- *05/2026*: &nbsp;🎉🎉 Two papers are accepted by ACL2026 findings.
+- *03/2026*: &nbsp;🎉🎉 Two papers are accepted by Pattern Recognition & IEEE Transactions on Dependable and Secure Computing.
+- *02/2026*: &nbsp;🎉🎉 Two papers are accepted by ICLR2026 & IEEE Transactions on Affective Computing.
+- *11/2025*: &nbsp;🎉🎉 Two papers are accepted by AAAI2026 & IEEE Transactions on Affective Computing.
+- *05/2025*: &nbsp;🎉🎉 One paper is accepted by NIPS2025(Spotlight).
+- *05/2025*: &nbsp;🎉🎉 Two papers are accepted by ACL2025(1 main & 1 findings).
+- *04/2025*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing.
+- *01/2025*: &nbsp;🎉🎉 Two papers are accepted by IEEE Trans on Nuclear Science & Journal of Instrumentation.
+- *09/2024*: &nbsp;🎉🎉 One paper is accepted by NIPS2024.
+- *07/2024*: &nbsp;🎉🎉 One paper is accepted by ECCV2024.
 - **Conference Reviewer**: ACM MM24-26, ECCV24&26, KDD25&26, ICCV25, NIPS25&26, ICML26, AAAI26, ARR, BMVC26.
 - **Journal Reviewer**: IEEE TAFFC, IEEE TCSS, IEEE TIFS, PR, Neural Network, Neural Computing, IPM.
 
 # 📝 Preprint
+- [MMOE: Modernizing Diffusion Transformers \\with Efficient Expert Design](), **Yanhao Jia<sup>*</sup>**, Jiepeng Wang<sup>*</sup>, Haibin Huang, Chi Zhang, Erik Cambria, Xuelong Li.
 
 - [Towards Spatial Reasoning and Understanding via Modeling Modality Conflict, Bias and Alignment](https://www.researchgate.net/publication/405186137_Towards_Spatial_Reasoning_and_Understanding_via_Modeling_Modality_Conflict_Bias_and_Alignment), **Yanhao Jia**, Xinyi Wu, Jayant Teotia, Junhao Dong, Shuai Zhao, Piotr Koniusz, Erik Cambria.
 
 - [Bridging World Models and Physical Simulation for Real-World 3D Scene Assets Generation](), **Yanhao Jia**, Qinglin Yang, Hao Li, Wangbo Yu, Junhao Dong, Shuai Zhao.
   
-- [ChronoPhyBench: Do MLLMs Truly Understand the World or Merely Exploit Language Priors?](https://www.researchgate.net/publication/405508425_ChronoPhyBench_Do_MLLMs_Truly_Understand_the_World_or_Merely_Exploit_Language_Priors), Bin Zhu<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Kexin Zhao<sup>*</sup>,et al.
+- [ChronoPhyBench: Do MLLMs Truly Understand the World or Merely Exploit Language Priors?](https://www.researchgate.net/publication/405508425_ChronoPhyBench_Do_MLLMs_Truly_Understand_the_World_or_Merely_Exploit_Language_Priors), Bin Zhu<sup>*</sup>, **Yanhao Jia<sup>*</sup>**, Kexin Zhao<sup>*</sup>, et al.
 
 - [From query to explanation: Uni-rag for multi-modal retrieval-augmented learning in stem](https://arxiv.org/abs/2507.03868), Xinyi Wu, **Yanhao Jia**, Luwei Xiao, Shuai Zhao, Feng-Kuang Chiang, Erik Cambria.
 
@@ -61,7 +64,7 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 
 - ``IEEE Trans on Affective Computing`` [Towards Affective Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://www.computer.org/csdl/journal/ta/5555/01/11361133/2dum8ZaUMBa), Xinyi Wu, **Yanhao Jia**, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
 
-- ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, Jiangyong Du, Haibo Yang, Ju Huang, Honglin Zhang, Xianglun Wei, Peixiong Zhao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chaojie Zou, Wenchao Sun, Xiangwei Peng, Chengxin Zhao.
+- ``IEEE Trans on Nuclear Science`` [Hi'Beam-SEE: A Real-time High-resolution Single Event Effects Locating Device for Heavy Ion Facilities](https://ieeexplore.ieee.org/abstract/document/10851311/), Jianwei Liao, **Yanhao Jia**, Shun Liao, et al.
 
 # 👨‍💻 Open-Source Projects
 - [OpenXLab-Edu](https://xedu.readthedocs.io/)
@@ -73,9 +76,10 @@ Hi! I am now a PhD student at the Nanyang Technological University, CCDS, superv
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
-- *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR (Supervisor: Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en))
-- *2023.04 - 2024.06*, Research Intern, Peking University (Supervisor: Prof. [Li Yuan](https://scholar.google.com/citations?user=-5juAR0AAAAJ&hl=en))
-- *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab (Mentor: Dr. [Ruohui Wang](https://scholar.google.com/citations?user=G-9-nIYAAAAJ&hl=en) and Ms. [Juan Dai](https://www.linkedin.com/in/lynn-dai-59a5aa13/))
+- *2026.03 - 2026.07*, Research Intern, Centre for Multimodal Generation, TeleAI (Supervisor: Dr. [Jiepeng Wang](https://scholar.google.com/citations?user=AoIVprMAAAAJ))
+- *2024.07 - 2025.04*, Research Intern, Centre for Frontier AI Research, A*STAR (Supervisor: Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ))
+- *2023.04 - 2024.06*, Research Intern, Peking University (Supervisor: Prof. [Li Yuan](https://scholar.google.com/citations?user=-5juAR0AAAAJ))
+- *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab (Mentor: Dr. [Ruohui Wang](https://scholar.google.com/citations?user=G-9-nIYAAAAJ) and Ms. [Juan Dai](https://www.linkedin.com/in/lynn-dai-59a5aa13/))
 - *2021.08 - 2021.09*, AI Teaching Assistant, State Grid Fujian Electric Power Company
 
 # Welcome
